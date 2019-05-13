@@ -1,4 +1,4 @@
-# inter-python-1b
+# Intermediate Python Assignment 2
 Intermediate Python course assignment-1b
 
 ## Contents
